@@ -11,6 +11,7 @@ The dataset used in this notebook contains information about coffee shop sales r
 - Selected relevant features for modeling.
 - Converted categorical features (product category and store location) to numeric features by mapping them to their corresponding mean total sales.
 - Scaled the features using RobustScaler to standardize their ranges.
+- You can access data Analysis - EDA of this dataset inside [Data-Analysis](https://github.com/jigsaw1313/Data-Analysis/tree/master) repository or this [link](https://github.com/jigsaw1313/Data-Analysis/tree/master/Maven%20Roasters)
 
 ## 1. Linear Regression Model
 
